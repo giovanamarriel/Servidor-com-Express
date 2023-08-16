@@ -1,13 +1,17 @@
-<h1 align="center"> Criando meu primeiro servidor </h1>
+<h1 align="center"> Criando meu primeiro servidor HTTP com o ExpressJs </h1>
 
-Este é o meu primeiro projeto criando um servidor HTTP com o pacote ExpressJs. 
+Neste projeto descrevo os comandos e linhas de código mais primordiais para a criação de um servidor HTTP com o pacote express.js 
 
 ![Datacenter](./servidor%20gif.gif)
 
-## Tópicos presentes nos códigos
+## Tópicos abordados:
 
-- Exportação e Importação de pacotes/arquivos com o `modules.export`
-- 
+- Inicializando um projeto `npm`;
+- Instalando pacotes; 
+- Arquivo `.gitignore`;
+- Importando pacotes com o `require()`;
+- Criando uma rota GET simples;
+- Declarando uma porta com o método `.listen()`;
 
 
 
