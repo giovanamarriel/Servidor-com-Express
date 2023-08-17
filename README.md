@@ -12,7 +12,7 @@ Neste projeto descrevo os comandos e linhas de código mais primordiais para a c
 
 </div>
 
-## Primeiros passos para criar um HTTP server:
+## 👣 Primeiros passos para criar um HTTP server
 
 1. Crie uma nova pasta para armazenar o projeto;
 2. Inicialize um pacote com o comando `npm init -y` nesta pasta criada;
@@ -20,7 +20,7 @@ Neste projeto descrevo os comandos e linhas de código mais primordiais para a c
 4. Com o comando `npm install express` no terminal, faça a instalação do pacote express;
 5. Dentro da pasta principal crie uma nova pasta chamada `src`, nela escreveremos os principais códigos de funcionamento do projeto.
 
-## Decupando o código 
+## 📑 Decupando o código
 
 O método require() serve para importar arquivos e/ou bibliotecas. Nesta linha estamos importando o pacote ExpressJs para o nosso projeto e colocando-o na variável 'express'
 
